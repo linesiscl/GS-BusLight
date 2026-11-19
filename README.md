@@ -164,6 +164,6 @@ O MVP do Ponto Vivo utiliza um robô físico para transformar os alertas gerados
 
 A integração permite que as informações processadas digitalmente sejam utilizadas pelo dispositivo físico para realizar sinalizações por meio de luzes e/ou movimentos.
 
-- **Vídeo demonstrativo:** [Inserir link do vídeo]
+- **Vídeo demonstrativo:** [https://youtu.be/7DY7e3Tm4jg]
 
 
